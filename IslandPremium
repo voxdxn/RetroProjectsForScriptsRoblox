@@ -1,0 +1,19 @@
+--local script == "Retreo"
+local function lagbackchance()
+    local lagbackchange = math.random(0, 100) -- the number you want to be
+    print("You have " ..lagbackchange.. " chance to lagback! Be Alert!!!")
+
+end
+lagbackchance()
+
+--vclipbypass2.22
+if vclip: === true
+then find1():localplayer
+ ifPlayer:__(vclip === true)
+return
+wait(01.4554) local 2.vclip == player.localplayer enable ==
+
+end
+  end
+
+-- lua bind plus script ofbustocation
